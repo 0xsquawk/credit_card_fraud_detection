@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection using Scikit-learn and Random Forest
 A machine learning project that trains a **Random Forest classifier** on a real-world, anonymised credit card transaction dataset to detect fraudulent transactions, with a focus on handling severe class imbalance and optimising for fraud-relevant evaluation metrics.
 
 <img width="625" height="482" alt="image" src="https://github.com/user-attachments/assets/9e1c4cc2-6917-4338-bbbb-7d93bbd5b448" />
